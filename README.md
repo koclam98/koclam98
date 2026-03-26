@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 - 🏢 공공기관 프로젝트 **4년 경험** — 안정성과 보안이 중요한 환경에서 서비스 설계 및 운영
-- ⚙️ **Java Spring Boot** 기반 백엔드와 **React** 프론트엔드를 아우르는 풀스택 개발
+- ⚙️ **Java Spring Boot** 기반 백엔드와 **React** 풀스택 개발
 - 🤖 RAG 시스템, 벡터 검색(pgvector + BGE-M3), LLM 연동 등 AI 인프라 구축 경험
 - 🛠️ CI/CD 파이프라인 구축 및 운영 (Jenkins + GitLab), Docker/WSL2 기반 로컬 개발 환경
 - 📝 사이드 프로젝트를 통해 꾸준히 새로운 기술 탐구 중

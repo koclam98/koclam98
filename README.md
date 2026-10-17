@@ -9,6 +9,27 @@
 
 ---
 
+## 🚀 Building now
+
+퇴근 후 혼자 만들어 운영하는 것들. 만든 과정은 [hankan.app](https://hankan.app)에 기록함.
+
+| 프로젝트 | 설명 |
+|---|---|
+| [월급날까지](https://apps.apple.com/kr/app/%EC%9B%94%EA%B8%89%EB%82%A0%EA%B9%8C%EC%A7%80/id6793741582) | 다음 월급날까지 하루 쓸 수 있는 돈을 알려주는 iOS 가계부 (SwiftUI · SwiftData · WidgetKit) |
+| [Lockbox Vault](https://apps.apple.com/kr/app/lockbox-vault/id6791478638) | 기기 안에만 두는 비밀번호 보관함, 서버·계정 없음 (iOS · macOS, 자동 완성 지원) |
+| [dari](https://darikorea.app/en) | 방한 외국인을 위한 여행 실용정보 사이트, 4개 언어 (Next.js · Cloudflare Workers) |
+| [AI 단어장](https://study.hankan.app) | 개발자·비개발자를 위한 AI 용어 사전 |
+| [tabata-timer.app](https://tabata-timer.app) | 인터벌·타바타 타이머 웹앱 |
+| 앱인토스 미니앱 | 토스 안에서 도는 계산기·조회형 미니앱 10여 개 (사업자 조회, 실수령액, 연차 조합기 등) |
+
+### 🧩 Open source — Claude Code plugins
+
+- **[db-schema-map](https://github.com/koclam98/db-schema-map)** — DB 연결 없이 MyBatis XML·JPA 엔티티만 읽어 테이블 지도·변경 영향도를 뽑음
+- **[claude-tmp-cleanup](https://github.com/koclam98/claude-tmp-cleanup)** — Claude Code 세션이 남긴 임시 폴더를 골라서 정리
+- **[claude-office](https://github.com/koclam98/claude-office)** — Claude Code 작업을 픽셀아트 사무실로 실시간 시각화
+
+---
+
 ## 🛠 Tech Stack
 
 **Backend**
@@ -27,6 +48,13 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 
 **DevOps & Infra**
 
@@ -54,6 +82,7 @@
 
 ## 📫 Contact
 
+[![hankan.app](https://img.shields.io/badge/hankan.app-111111?style=flat-square)](https://hankan.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bkffjqb10@gmail.com)
 `bkffjqb10@gmail.com`
 

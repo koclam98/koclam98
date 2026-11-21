@@ -18,6 +18,7 @@
 | [월급날까지](https://apps.apple.com/kr/app/%EC%9B%94%EA%B8%89%EB%82%A0%EA%B9%8C%EC%A7%80/id6793741582) | 다음 월급날까지 하루 쓸 수 있는 돈을 알려주는 iOS 가계부 (SwiftUI · SwiftData · WidgetKit) |
 | [Lockbox Vault](https://apps.apple.com/kr/app/lockbox-vault/id6791478638) | 기기 안에만 두는 비밀번호 보관함, 서버·계정 없음 (iOS · macOS, 자동 완성 지원) |
 | [dari](https://darikorea.app/en) | 방한 외국인을 위한 여행 실용정보 사이트, 4개 언어 (Next.js · Cloudflare Workers) |
+| [알려줌](https://allyeojum.vercel.app) | 부모님 휴대폰 스크린샷 한 장으로 다음에 누를 곳을 짚어 주고 사기 신호를 알려 주는 웹 서비스 (원티드 AI Championship 2026 출품) |
 | [AI 단어장](https://study.hankan.app) | 개발자·비개발자를 위한 AI 용어 사전 |
 | [tabata-timer.app](https://tabata-timer.app) | 인터벌·타바타 타이머 웹앱 |
 | 앱인토스 미니앱 | 토스 안에서 도는 계산기·조회형 미니앱 10여 개 (사업자 조회, 실수령액, 연차 조합기 등) |
